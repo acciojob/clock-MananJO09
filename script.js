@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const time =document.getelementbyId("time");
+const time =document.getelementbyId("timer");
 
 setInterval(() =>{
 	let d= new Date();
